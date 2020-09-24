@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week4_Demo</string>
+    <string name="welcome_msg"> Hello world!</string>
+    <string name="click_me">Click ME3333</string>
+    <string name="call_fsc">Call FSC</string>
+    <string name="move_to_ui2">move to UI2</string>
+    <string name="go_to_fsc">go to FSC</string>
+</resources>
